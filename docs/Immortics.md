@@ -5,7 +5,6 @@
 - [II. Defining "Immortality"](#ii-defining-immortality)
 - [III. Discipline Definition: Systematically Engineering Immortality](#iii-discipline-definition-systematically-engineering-immortality)
   - [Core Disciplinary Framework](#core-disciplinary-framework)
-  - [Inheritance and Reconstruction of Traditional Immortology](#inheritance-and-reconstruction-of-traditional-immortology)
   - [Discipline Engineering Task Map](#discipline-engineering-task-map)
 - [IV. Guiding Principles for Development](#iv-guiding-principles-for-development)
   - [Pragmatic Knowledge Open-Source Strategy](#pragmatic-knowledge-open-source-strategy)
