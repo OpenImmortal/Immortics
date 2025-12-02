@@ -57,6 +57,13 @@ As this loop tightens, it signifies the gradual obsolescence of the old paradigm
 | **Social Engineering**<br>(System Support Layer)               | Steer civilizational resources toward the goal of individual immortality.                   | Resource allocation (individual logistics support, research resource aggregation); Consensus building (literature, film/television, video game); Legal/Ethical support (safeguarding individual rights, facilitating research progress); Collaborative networks (platforms, communities).                                                                                           |
 
 
+| Branch | Objective | Representative Directions |
+| :----- | :-------- | :------------------------ |
+| **Individual Engineering**<br>(Technical Implementation Layer) | Address threats to individual existence and value, and explore ultimate technical pathways. | Biological Engineering (programmatic cell regeneration, tissue cultivation); Mechanical Engineering (ambient adaptability enhancement); Information Engineering (brain-computer interfaces, consciousness substrates, cognitive enhancement); Manufacturing Engineering (advancements in the cost, capacity, customization, and precision of cultivation and production processes). |
+| **Social Engineering**<br>(System Support Layer) | Steer civilizational resources toward the goal of individual immortality. | Resource allocation (individual logistics support, research resource aggregation); Consensus building (literature, film/television, video game); Legal/Ethical support (safeguarding individual rights, facilitating research progress); Collaborative networks (platforms, communities). |
+
+
+
 Within the framework of this discipline, Individual Engineering and Social Engineering will interact directly, reinforce each other, and form an efficient closed loop of **"technological breakthrough → social support → iterative upgrade"**.
 
 **Inheritance and Reconstruction of Traditional Immortology**  
