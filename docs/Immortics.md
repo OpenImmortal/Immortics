@@ -149,7 +149,7 @@ Founded on **collaborative symbiosis and mutual achievement**, the entire ecosy
 
 ## **VII. Collaborate for a Shared Immortality**
 
-We welcome broad discussions on Immortics across all social and academic platforms. Prior to the full deployment of the decentralized operational network this discipline relies on, we sincerely invite you to contribute any outcomes or relevant links related to Immortics directly to this [GitHub repository](...).
+We welcome broad discussions on Immortics across all social and academic platforms. Prior to the full deployment of the decentralized operational network this discipline relies on, we sincerely invite you to contribute any outcomes or relevant links related to Immortics directly to this [GitHub repository](https://github.com/OpenImmortal/Immortics/).
 
 We invite all fellow travelers—whether you have suggestions for Immortics' development or wish to join us on this journey of growth—to contact us at:
 **[build@immortics.org](mailto:build@immortics.org)**  
