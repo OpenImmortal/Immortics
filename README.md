@@ -51,54 +51,8 @@ As this loop tightens, it signifies the gradual obsolescence of the old paradigm
 **Immortics** is a comprehensive discipline. It is dedicated to integrating the cross-disciplinary knowledge required for "Immortality" and to sustaining the continuous expansion of its technological ecosystem. Its mission is **to translate civilization's supreme safeguard of individual existence and value from an ideal into a systematic, executable engineering paradigm**.
 
 ### Core Disciplinary Framework
-| Branch                                                         | Objective                                                                                   | Representative Directions                                                                                                                                                                                                                                                                                                                                                           |
-| :------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Individual Engineering**<br>(Technical Implementation Layer) | Address threats to individual existence and value, and explore ultimate technical pathways. | Biological Engineering (programmatic cell regeneration, tissue cultivation); Mechanical Engineering (ambient adaptability enhancement); Information Engineering (brain-computer interfaces, consciousness substrates, cognitive enhancement); Manufacturing Engineering (advancements in the cost, capacity, customization, and precision of cultivation and production processes). |
-| **Social Engineering**<br>(System Support Layer)               | Steer civilizational resources toward the goal of individual immortality.                   | Resource allocation (individual logistics support, research resource aggregation); Consensus building (literature, film/television, video game); Legal/Ethical support (safeguarding individual rights, facilitating research progress); Collaborative networks (platforms, communities).                                                                                           |
 
-```mermaid
-graph TD
-    A[Immortics Core Framework] --> B[Individual Engineering]
-    A --> C[Social Engineering]
-    
-    B --> B1[Biological Engineering]
-    B --> B2[Mechanical Engineering]
-    B --> B3[Information Engineering]
-    B --> B4[Manufacturing Engineering]
-    
-    C --> C1[Resource Allocation]
-    C --> C2[Consensus Building]
-    C --> C3[Legal/Ethical Support]
-    C --> C4[Collaborative Networks]
-    
-    B1 --> B1_1[Programmatic Cell Regeneration]
-    B1 --> B1_2[Tissue Cultivation]
-    
-    B2 --> B2_1[Ambient Adaptability Enhancement]
-    
-    B3 --> B3_1[Brain-Computer Interfaces]
-    B3 --> B3_2[Consciousness Substrates]
-    B3 --> B3_3[Cognitive Enhancement]
-    
-    B4 --> B4_1[Cost Advancements]
-    B4 --> B4_2[Capacity Improvements]
-    B4 --> B4_3[Customization]
-    B4 --> B4_4[Precision Enhancements]
-    
-    C1 --> C1_1[Individual Logistics Support]
-    C1 --> C1_2[Research Resource Aggregation]
-    
-    C2 --> C2_1[Literature]
-    C2 --> C2_2[Film/Television]
-    C2 --> C2_3[Video Games]
-    
-    C3 --> C3_1[Safeguarding Individual Rights]
-    C3 --> C3_2[Facilitating Research Progress]
-    
-    C4 --> C4_1[Platforms]
-    C4 --> C4_2[Communities]
-```
-
+![Core Disciplinary Framework](Disciplinary_Framework.png)
 
 Within the framework of this discipline, Individual Engineering and Social Engineering will interact directly, reinforce each other, and form an efficient closed loop of **"technological breakthrough → social support → iterative upgrade"**.
 
